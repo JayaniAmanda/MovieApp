@@ -10,7 +10,7 @@ This is the test
 -IDE = Android Studio
 # API Used
 -https://www.themoviedb.org/ \
--https://api.themoviedb.org/3/movie/popular?api_key=<<api_key>> \
+-https://api.themoviedb.org/3/movie/popular?api_key=<<api_key>>
 # Login Detailes needed
 -Password and Username will be needed as I used a dummy login \
 -Username = Amanda \
